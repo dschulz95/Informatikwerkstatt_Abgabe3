@@ -1,2 +1,13 @@
-# Informatikwerkstatt_Abgabe3
-Abgabe 3 für Informatikwerkstatt
+IFahrzeug = Interface
+	|	
+	|	
+	|	
+	v	
+	CAuto = Klasse
+		|
+		|
+		|
+		v
+		CSuv = Klasse
+
+CMain ruft das auf 
